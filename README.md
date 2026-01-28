@@ -99,6 +99,17 @@ This is a collaborative testing effort rather than a one-way distribution.
 If you are interested in participating, please be prepared to share
 constructive feedback and practical insights during the testing phase.
 
+## Bill of Materials (BOM)
+
+For a complete list of parts and components for Project Quindecum,
+see the Bill of Materials below:
+
+🔗 **BOM Spreadsheet:**  
+https://docs.google.com/spreadsheets/d/1nJBv6CMfGyc1glqEgBD53pvTv2HscVy6cldr4ujhJa0/edit?usp=sharing
+
+Please review the BOM before building.
+The spreadsheet includes part numbers, suggested vendors,
+quantities, and notes on substitution or sourcing.
 
 ## 개요
 
@@ -203,3 +214,13 @@ Project Quindecum은 현재 **클로즈드 베타 테스트 단계**에 있습�
 
 참여를 원하신다면, 테스트 과정에서
 적극적인 피드백과 경험 공유가 가능하신 분을 환영합니다.
+
+## 자재 목록 (BOM)
+
+Project Quindecum 제작에 필요한 부품 목록은 아래 스프레드시트에서 확인하세요:
+
+🔗 **BOM 스프레드시트:**  
+https://docs.google.com/spreadsheets/d/1nJBv6CMfGyc1glqEgBD53pvTv2HscVy6cldr4ujhJa0/edit?usp=sharing
+
+해당 문서에는 부품명, 권장 판매처, 수량, 대체 부품 가능 여부 등의 정보가 포함되어 있으니
+제작 전에 반드시 확인해 주세요.
