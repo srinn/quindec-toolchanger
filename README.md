@@ -150,6 +150,9 @@ Project Quindecum은 MedusaHC에서 제시된 핵심 개념을 바탕으로,
 Irbis의 MedusaHC 소개 영상:  
 🔗 https://www.youtube.com/watch?v=hpV5Z1TnGdY
 
+Irbis의 MedusaHC Github:
+🔗 https://github.com/Irbis3D/MedusaHC
+
 **Project Quindecum – A 15-Tools Toolchanger 3D Printer**
 
 ![image](./pics/preview.jpg)
