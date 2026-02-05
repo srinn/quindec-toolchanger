@@ -30,6 +30,8 @@ Here are some videos demonstrating the Quindec Toolchanger in action:
 
 **Join my Discord Server:**
 
+[![Srin](https://discord.com/api/guilds/1464692118177054906/widget.png?style=banner4)](https://discord.gg/CxMwUS3zvY)
+
 [![Srin](https://discord-live-members-count-badge.vercel.app/api/discord-total?guildId=1464692118177054906&color=5865F2&label=Srin&scale=1)](https://discord.gg/CxMwUS3zvY)
 
 Project Quindecum is an open-source toolchanger project built around the  
@@ -163,6 +165,8 @@ Quindec Toolchanger의 동작을 보여주는 영상들입니다.
 [![6 color test on my new toolchanger](http://img.youtube.com/vi/941lrKT-fIY/0.jpg)](https://www.youtube.com/watch?v=941lrKT-fIY)
 
 **디스코드 서버 링크:**
+
+[![Srin](https://discord.com/api/guilds/1464692118177054906/widget.png?style=banner4)](https://discord.gg/CxMwUS3zvY)
 
 [![Srin](https://discord-live-members-count-badge.vercel.app/api/discord-total?guildId=1464692118177054906&color=5865F2&label=Srin&scale=1)](https://discord.gg/CxMwUS3zvY)
 
